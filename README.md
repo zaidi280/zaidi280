@@ -40,6 +40,6 @@ I'm a software developer from Tunisia.I have a passion for learning and sharing 
 
 
 
-[instagram]: ttps://instagram.com/saifzaidi_132?utm_medium=copy_link
+[instagram]: https://instagram.com/saifzaidi_132?utm_medium=copy_link
 [linkedin]: https://www.linkedin.com/in/zaidi-saif-2394a9221/
 [email]: mailto:zaidisaif95@gmail.com
