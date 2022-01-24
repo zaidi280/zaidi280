@@ -33,7 +33,8 @@ I'm a software developer from Tunisia.I have a passion for learning and sharing 
 <br />
 <br />
 
-
+---
+<img align="left" alt="zaidi280 github"  src="https://github-readme-stats.vercel.app/api?username=zaidi280&show_icons=true&hide_border=true" />
 
 
 
