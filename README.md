@@ -6,7 +6,7 @@ I'm a software developer from Tunisia.I have a passion for learning and sharing 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developpers
-- 🥅 2021 Goals: Contribute more to Open Source projects and make my own projects 
+- 🥅 2022 Goals: Contribute more to Open Source projects and make my own projects 
 - ⚡ Fun fact: I love to beatbox and discover new things 
 
 ### Connect with me:
