@@ -1,6 +1,7 @@
-### Hi there, I'm Saif  👋 
+### Hi there, I'm Saif ZAIDI  👋 
 
-I'm a software developer from Tunisia.I have a passion for learning and sharing my knowledge with others as publicly as possible.i am into improving my skills in multiple programming languages such as js/java/php/c# and learning how to use librarys such as reactjs and frameworks like laravel at the moment.
+I am currently a 3rd year computer science student applied to the management . I have a passion for learning and sharing my knowledge with others. I want to improve my IT skills.
+I use my technical knowledge to the benefit of others .
 
 ## I'm a Developer and Student!!
 
