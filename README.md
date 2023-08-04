@@ -1,4 +1,4 @@
-### Hi there, I'm Saif ZAIDI  👋 
+### Hi there, I'm Saifeddine ZAIDI  👋 
 
 I am currently a 3rd year computer science student applied to the management . I have a passion for learning and sharing my knowledge with others. I want to improve my IT skills.
 I use my technical knowledge to the benefit of others .
