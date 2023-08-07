@@ -1,7 +1,6 @@
 ### Hi there, I'm Saifeddine ZAIDI  👋 
 
-I am currently a 3rd year computer science student applied to the management . I have a passion for learning and sharing my knowledge with others. I want to improve my IT skills.
-I use my technical knowledge to the benefit of others .
+Having successfully graduated with a national bachelor's degree in Applied Computer Science for Management, I am currently pursuing my studies as a dedicated student in Computer Engineering. My academic journey reflects my fervent passion for learning and my eagerness to share knowledge with others. Striving to elevate my IT skills, I actively employ my technical expertise for the betterment of those around me.
 
 ## I'm a Developer and Student!!
 
