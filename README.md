@@ -7,7 +7,7 @@ I use my technical knowledge to the benefit of others .
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developpers
-- 🥅 2022 Goals: Contribute more to Open Source projects and make my own projects 
+- 🥅 2023 Goals: Contribute more to Open Source projects and make my own projects 
 
 
 ### Connect with me:
