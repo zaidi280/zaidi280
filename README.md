@@ -1,15 +1,17 @@
-### Hi there, I'm Saifeddine ZAIDI  👋 
+### Salut à tous, je suis Saifeddine ZAIDI  👋 
 
-Having successfully graduated with a national bachelor's degree in Applied Computer Science for Management, I am currently pursuing my studies as a dedicated student in Computer Engineering. My academic journey reflects my fervent passion for learning and my eagerness to share knowledge with others. Striving to elevate my IT skills, I actively employ my technical expertise for the betterment of those around me.
+Titulaire d'une licence nationale en Informatique Appliquée à la Gestion, je poursuis actuellement mes études en cycle d’ingénieur en Génie Logiciel et Informatique Décisionnelle. Mon parcours académique reflète ma passion pour l’apprentissage continu et mon envie de partager mes connaissances. Mon objectif est d'approfondir mes compétences en informatique tout en utilisant mon expertise technique pour contribuer à des projets innovants et collaboratifs.
 
-## I'm a Developer and Student!!
+## Ingénieur Logiciel en Devenir 🚀
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developpers
-- 🥅 2023 Goals: Contribute more to Open Source projects and make my own projects 
+- 💻 Architecte de solutions : J’aime transformer des idées complexes en solutions logicielles efficaces et fonctionnelles.
+- 🌐 Explorateur du numérique : Toujours curieux d’apprendre les dernières technologies, je m’efforce de rester à la pointe de l’innovation.
+- 🛠️ Bâtisseur d'avenir : Je crois que le code n’est pas juste une série de commandes, mais un outil pour façonner l’avenir et résoudre les défis du monde réel.
+- 🤝 Collaborateur engagé : Passionné par le travail d’équipe, je suis convaincu que les meilleures solutions naissent de la collaboration et du partage de connaissances.
+- 🎯 Visionnaire : Mon objectif est de créer des logiciels qui ne se contentent pas de fonctionner, mais qui inspirent et apportent une réelle valeur ajoutée
 
 
-### Connect with me:
+### Contactez-moi :
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/singhkshitij/singhkshitij/master/mail.png" />][email]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,7 +19,7 @@ Having successfully graduated with a national bachelor's degree in Applied Compu
 
 <br />
 
-### Languages and Tools:
+### Langages et Outils :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="vs" width="26px" src="https://cdn-icons-png.flaticon.com/128/906/906324.png" />
