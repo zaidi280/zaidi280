@@ -67,8 +67,5 @@ Ingénieur en Génie Logiciel & Informatique Décisionnelle (IIT Sfax)[cite: 1].
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
-
-[linkedin]: https://linkedin.com/in/saifeddine-zaidi-2394a9221[cite: 1]
-[email]: mailto:zaidisaif95@gmail.com[cite: 1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifeddine-zaidi-2394a9221)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidisaif95@gmail.com)
