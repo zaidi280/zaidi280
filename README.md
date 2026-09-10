@@ -1,55 +1,74 @@
-### Salut à tous, je suis Saifeddine ZAIDI  👋 
+# Hi there, I'm Saifeddine ZAIDI 👋 
+### Full-Stack & AI Systems Engineer | Mobile & Web Developer
 
-Titulaire d'une licence nationale en Informatique Appliquée à la Gestion, je poursuis actuellement mes études en cycle d’ingénieur en Génie Logiciel et Informatique Décisionnelle. Mon parcours académique reflète ma passion pour l’apprentissage continu et mon envie de partager mes connaissances. Mon objectif est d'approfondir mes compétences en informatique tout en utilisant mon expertise technique pour contribuer à des projets innovants et collaboratifs.
-
-## Ingénieur Logiciel en Devenir 🚀
-
-- 💻 Architecte de solutions : J’aime transformer des idées complexes en solutions logicielles efficaces et fonctionnelles.
-- 🌐 Explorateur du numérique : Toujours curieux d’apprendre les dernières technologies, je m’efforce de rester à la pointe de l’innovation.
-- 🛠️ Bâtisseur d'avenir : Je crois que le code n’est pas juste une série de commandes, mais un outil pour façonner l’avenir et résoudre les défis du monde réel.
-- 🤝 Collaborateur engagé : Passionné par le travail d’équipe, je suis convaincu que les meilleures solutions naissent de la collaboration et du partage de connaissances.
-- 🎯 Visionnaire : Mon objectif est de créer des logiciels qui ne se contentent pas de fonctionner, mais qui inspirent et apportent une réelle valeur ajoutée
-
-
-### Contactez-moi :
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://raw.githubusercontent.com/singhkshitij/singhkshitij/master/mail.png" />][email]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-### Langages et Outils :
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="vs" width="26px" src="https://cdn-icons-png.flaticon.com/128/906/906324.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" alt="c#" width="26px" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" />
-<img align="left" alt="symfony" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/symfony-icon.png" />
-<img align="left" alt="EA" width="26px" src="https://w7.pngwing.com/pngs/227/500/png-transparent-enterprise-architect-rational-doors-computer-software-sparx-systems-unified-modeling-language-enterprise-architecture.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7IeDsqCcyMibzHAwEq7KqOVrO41KbSKJJtcsxVe9HGg7STcYI3wqNI8I4bEBXcDidvVg&usqp=CAU" />
-<img align="left" alt="xampp" width="26px" src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/81488144/166306390-9bae26c8-c708-474c-914e-2ac9ad0cd7e3.png" />
-
-
-
-
-<br />
-<br />
+Ingénieur en Génie Logiciel & Informatique Décisionnelle (IIT Sfax)[cite: 1]. Spécialisé dans le développement d'applications Full-Stack (Spring Boot / FastAPI & Angular)[cite: 1], le développement mobile (Flutter)[cite: 1] et l'intégration de solutions d'Intelligence Artificielle (LLMs, RAG, Computer Vision)[cite: 1].
 
 ---
-<img align="left" alt="zaidi280 github"  src="https://github-readme-stats.vercel.app/api?username=zaidi280&show_icons=true&hide_border=true" />
 
+### 🚀 À propos de moi
 
+- 🎓 **Diplôme d'Ingénieur** en Génie Logiciel & Informatique Décisionnelle (IIT)[cite: 1].
+- 💡 **Spécialité** : Développement Full-Stack, applications mobiles croisées et intégration d'assistants intelligents (RAG, Prompt Engineering, Vision par ordinateur)[cite: 1].
+- 🛠️ **PFE Récent (INET)** : Plateforme web d'extraction intelligente de factures (Angular, FastAPI, MongoDB, Docker, CI/CD GitLab)[cite: 1].
+- 🏆 **Certifications** : DELF B2 (2025), CCNA1 Cisco (2024), Fondamentaux de Scrum (2024)[cite: 1].
 
+---
 
+### 🛠️ Compétences Techniques
 
+#### **Backend & IA**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+#### **Frontend & Mobile**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[linkedin]: https://www.linkedin.com/in/zaidi-saif-2394a9221/
-[email]: mailto:zaidisaif95@gmail.com
+#### **Bases de données, DevOps & Outils**
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+### 🤝 Soft Skills & Qualités
+
+- 🤝 **Esprit d'équipe & Collaboration** : Apprécie le travail en équipe et la synergie de groupe[cite: 1].
+- 🗣️ **Communication** : Capacité à présenter des concepts techniques et à communiquer efficacement[cite: 1].
+- 🧩 **Résolution de problèmes** : Approche méthodique pour diagnostiquer et résoudre des défis logiciels complexes[cite: 1].
+- ⚡ **Adaptabilité & Autonomie** : Capacité à monter rapidement en compétences sur de nouvelles technologies[cite: 1].
+
+---
+
+### 📌 Projets Phares
+
+- 📄 **Extraction Intelligente de Factures (INET)** : Plateforme web basée sur l'IA (LLM / Prompt Engineering) avec assistant conversationnel (Angular, FastAPI, MongoDB, Docker, CI/CD GitLab)[cite: 1].
+- ⚡ **Suivi Énergétique Mobile (Cockpit)** : Application mobile multiplateforme de suivi énergétique avec alerte et visualisation en temps réel (Flutter, Dart, Node.js, Firebase)[cite: 1].
+- 🚗 **SmartALPR** : Système de reconnaissance automatique de plaques d'immatriculation avec Computer Vision (YOLOv8, OpenCV) et module LLM/RAG[cite: 1].
+- 🏥 **Gestion des Visiteurs (Clinisys)** : Application hospitalière temps réel avec dashboard interactif et chatbot (Spring Boot, Angular, SQL Server)[cite: 1].
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidi280&show_icons=true&theme=radial&hide_border=true" alt="Saifeddine GitHub Stats" />
+</p>
+
+---
+
+### 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][email]
+
+[linkedin]: https://linkedin.com/in/saifeddine-zaidi-2394a9221[cite: 1]
+[email]: mailto:zaidisaif95@gmail.com[cite: 1]
