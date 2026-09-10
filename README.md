@@ -1,16 +1,16 @@
 # Hi there, I'm Saifeddine ZAIDI 👋 
 ### Full-Stack & AI Systems Engineer | Mobile & Web Developer
 
-Ingénieur en Génie Logiciel & Informatique Décisionnelle (IIT Sfax)[cite: 1]. Spécialisé dans le développement d'applications Full-Stack (Spring Boot / FastAPI & Angular)[cite: 1], le développement mobile (Flutter)[cite: 1] et l'intégration de solutions d'Intelligence Artificielle (LLMs, RAG, Computer Vision)[cite: 1].
+Ingénieur en Génie Logiciel & Informatique Décisionnelle (IIT Sfax). Spécialisé dans le développement d'applications Full-Stack (Spring Boot / FastAPI & Angular), le développement mobile (Flutter) et l'intégration de solutions d'Intelligence Artificielle (LLMs, RAG, Computer Vision).
 
 ---
 
 ### 🚀 À propos de moi
 
-- 🎓 **Diplôme d'Ingénieur** en Génie Logiciel & Informatique Décisionnelle (IIT)[cite: 1].
-- 💡 **Spécialité** : Développement Full-Stack, applications mobiles croisées et intégration d'assistants intelligents (RAG, Prompt Engineering, Vision par ordinateur)[cite: 1].
-- 🛠️ **PFE Récent (INET)** : Plateforme web d'extraction intelligente de factures (Angular, FastAPI, MongoDB, Docker, CI/CD GitLab)[cite: 1].
-- 🏆 **Certifications** : DELF B2 (2025), CCNA1 Cisco (2024), Fondamentaux de Scrum (2024)[cite: 1].
+- 🎓 **Diplôme d'Ingénieur** en Génie Logiciel & Informatique Décisionnelle (IIT).
+- 💡 **Spécialité** : Développement Full-Stack, applications mobiles croisées et intégration d'assistants intelligents (RAG, Prompt Engineering, Vision par ordinateur).
+- 🛠️ **PFE Récent (INET)** : Plateforme web d'extraction intelligente de factures (Angular, FastAPI, MongoDB, Docker, CI/CD GitLab).
+- 🏆 **Certifications** : DELF B2 (2025), CCNA1 Cisco (2024), Fondamentaux de Scrum (2024).
 
 ---
 
@@ -41,19 +41,19 @@ Ingénieur en Génie Logiciel & Informatique Décisionnelle (IIT Sfax)[cite: 1].
 
 ### 🤝 Soft Skills & Qualités
 
-- 🤝 **Esprit d'équipe & Collaboration** : Apprécie le travail en équipe et la synergie de groupe[cite: 1].
-- 🗣️ **Communication** : Capacité à présenter des concepts techniques et à communiquer efficacement[cite: 1].
-- 🧩 **Résolution de problèmes** : Approche méthodique pour diagnostiquer et résoudre des défis logiciels complexes[cite: 1].
-- ⚡ **Adaptabilité & Autonomie** : Capacité à monter rapidement en compétences sur de nouvelles technologies[cite: 1].
+- 🤝 **Esprit d'équipe & Collaboration** : Apprécie le travail en équipe et la synergie de groupe.
+- 🗣️ **Communication** : Capacité à présenter des concepts techniques et à communiquer efficacement.
+- 🧩 **Résolution de problèmes** : Approche méthodique pour diagnostiquer et résoudre des défis logiciels complexes.
+- ⚡ **Adaptabilité & Autonomie** : Capacité à monter rapidement en compétences sur de nouvelles technologies.
 
 ---
 
 ### 📌 Projets Phares
 
-- 📄 **Extraction Intelligente de Factures (INET)** : Plateforme web basée sur l'IA (LLM / Prompt Engineering) avec assistant conversationnel (Angular, FastAPI, MongoDB, Docker, CI/CD GitLab)[cite: 1].
-- ⚡ **Suivi Énergétique Mobile (Cockpit)** : Application mobile multiplateforme de suivi énergétique avec alerte et visualisation en temps réel (Flutter, Dart, Node.js, Firebase)[cite: 1].
-- 🚗 **SmartALPR** : Système de reconnaissance automatique de plaques d'immatriculation avec Computer Vision (YOLOv8, OpenCV) et module LLM/RAG[cite: 1].
-- 🏥 **Gestion des Visiteurs (Clinisys)** : Application hospitalière temps réel avec dashboard interactif et chatbot (Spring Boot, Angular, SQL Server)[cite: 1].
+- 📄 **Extraction Intelligente de Factures (INET)** : Plateforme web basée sur l'IA (LLM / Prompt Engineering) avec assistant conversationnel (Angular, FastAPI, MongoDB, Docker, CI/CD GitLab).
+- ⚡ **Suivi Énergétique Mobile (Cockpit)** : Application mobile multiplateforme de suivi énergétique avec alerte et visualisation en temps réel (Flutter, Dart, Node.js, Firebase).
+- 🚗 **SmartALPR** : Système de reconnaissance automatique de plaques d'immatriculation avec Computer Vision (YOLOv8, OpenCV) et module LLM/RAG.
+- 🏥 **Gestion des Visiteurs (Clinisys)** : Application hospitalière temps réel avec dashboard interactif et chatbot (Spring Boot, Angular, SQL Server).
 
 ---
 
