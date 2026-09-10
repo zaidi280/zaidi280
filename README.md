@@ -57,14 +57,6 @@ Ingénieur en Génie Logiciel & Informatique Décisionnelle (IIT Sfax)[cite: 1].
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidi280&show_icons=true&theme=radial&hide_border=true" alt="Saifeddine GitHub Stats" />
-</p>
-
----
-
 ### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saifeddine-zaidi-2394a9221)
